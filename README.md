@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shameelnim
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Next Js.
-- 💞️ I’m looking to collaborate on Everyone learn tech
+- 💞️ I’m founder of Everyone learn tech
 - 📫 How to reach me my youtue channel
 
 <!---
