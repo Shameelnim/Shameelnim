@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Shameelnim
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Next Js.
-- 💞️ I’m founder of Everyone learn tech
-- 📫 How to reach me my youtue channel
+- Hi I am Umer Shameel 👦
+- Working with Python and JavaScript 😎
+- Ethical hacking and Web Developer 😁
+- Django,Next JS Developer 💀
+- Code with Shameel and Everyone learn tech founder 🖥️
 
-<!---
-Shameelnim/Shameelnim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Thank you!
